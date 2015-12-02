@@ -9,7 +9,7 @@ if (isset($_REQUEST['formtype']) && $_REQUEST['formtype'] == 'form') {
 		$field_003 = $_REQUEST['field_003'];
 		$field_004 = $_REQUEST['field_004'];
 		
-		$mailAddress = 'yourmail@mail.com';
+		$mailAddress = 'brshimaoka@gmail.com';
 		$subject = 'Subject';
 		$msg = "Message $field_003\r\n $field_004";
 		$headers = "MIME-Version: 1.0\r\n Content-type: text/plain; charset=utf-8\r\n From: " . $_REQUEST[$result->slug] . "\r\n Reply-To: " . $_REQUEST[$result->slug] . "\r\n X-Mailer: PHP/" . phpversion();
@@ -24,7 +24,7 @@ if (isset($_REQUEST['formtype']) && $_REQUEST['formtype'] == 'form') {
 		$contact_subject = $_REQUEST['contact_subject'];
 		$contact_message = $_REQUEST['contact_message'];
 		
-		$mailAddress = 'yourmail@mail.com';
+		$mailAddress = 'brshimaoka@gmail.com';
 		$subject = 'Subject';
 		$msg = "$contact_name\r\n $contact_email\r\n $contact_subject\r\n $contact_message";
 		$headers = "MIME-Version: 1.0\r\n Content-type: text/plain; charset=utf-8\r\n From: " . $_REQUEST[$result->slug] . "\r\n Reply-To: " . $_REQUEST[$result->slug] . "\r\n X-Mailer: PHP/" . phpversion();
