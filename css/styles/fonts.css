@@ -151,7 +151,7 @@ label,
 
 body,
 body.cmsms_black .table tbody td {
-	color:#888888;
+	color:#b5b3b2;
 }
 
 #bottom,
@@ -188,7 +188,7 @@ h6 a:hover,
 #wp-calendar #today,
 a.cmsmsLike.active span span,
 a.cmsmsLike.active:hover span span {
-	color:#555555;
+	color:#d3d3d3;
 }
 
 #bottom a,
@@ -221,7 +221,7 @@ body.cmsms_black .header_html_inner h6,
 #footer .footer_nav > li.current-menu-ancestor a,
 #footer .footer_nav > li.current_page_item a,
 #footer .footer_nav > li a:hover {
-	color:#ffffff;
+	color:#2f2f2f;
 }
 
 .color_3 {
@@ -232,7 +232,7 @@ body.cmsms_black .header_html_inner h6,
 /* ====> Navigation <==== */
 
 #navigation > li > a {
-	color:#2e2e2e;
+	color:#f2f2f2;
 }
 
 #navigation li.current_page_item > a,
@@ -240,12 +240,12 @@ body.cmsms_black .header_html_inner h6,
 #navigation li.current-menu-ancestor > a,
 #navigation li:hover > a:hover, 
 #navigation li:hover > a {
-	color:#2e2e2e;
+	color:#f2f2f2;
 }
 
 #navigation ul li > a,
 #navigation > li.dropdown > a:hover {
-	color:#6a6a6a;
+	color:#ffffff;
 }
 
 #navigation li li.current_page_item > a,
@@ -253,7 +253,7 @@ body.cmsms_black .header_html_inner h6,
 #navigation li li.current-menu-ancestor > a,
 #navigation li li:hover > a:hover, 
 #navigation ul li:hover > a {
-	color:#ffffff;
+	color:#2e2e2e;
 }
 
 
@@ -262,13 +262,13 @@ body.cmsms_black .header_html_inner h6,
 h1,
 h1 a,
 .logo {
-	color:#2e2e2e;
+	color:#f2f2f2;
 }
 
 h2,
 h2 a,
 .cmsms_sitemap > li > a {
-	color:#2e2e2e;
+	color:#f2f2f2;
 }
 
 h3,
@@ -277,7 +277,7 @@ h3 a,
 .cmsms_pricing_table .cmsms_price,
 .cmsms_pricing_table .cmsms_coins,
 .cmsms_pricing_table .cmsms_period {
-	color:#2e2e2e;
+	color:#f2f2f2;
 }
 
 h4,
@@ -287,19 +287,19 @@ h4 a,
 .person_title,
 .post.format-aside .cmsms_post_right_column,
 .archive .project.format-aside .cmsms_post_right_column {
-	color:#2e2e2e;
+	color:#f2f2f2;
 }
 
 h5,
 h5 a,
 .post_type_shortcode .tl_info,
 #wp-calendar thead th {
-	color:#2e2e2e;
+	color:#f2f2f2;
 }
 
 h6,
 h6 a {
-	color:#888888;
+	color:#b5b3b2;
 }
 
 
@@ -309,11 +309,11 @@ q,
 blockquote,
 .post.format-quote blockquote + p,
 .archive .project.format-quote blockquote + p {
-	color:#888888;
+	color:#b5b3b2;
 }
 
 span.dropcap {
-	color:#2e2e2e;
+	color:#f2f2f2;
 }
 
 span.dropcap2 {
@@ -321,12 +321,12 @@ span.dropcap2 {
 }
 
 code {
-	color:#888888;
+	color:#b5b3b2;
 }
 
 small, 
 abbr {
-	color:#888888;
+	color:#b5b3b2;
 }
 
 input, 
@@ -336,7 +336,7 @@ option,
 label,
 .cmsms-form-builder .check_parent input[type="checkbox"]+label, 
 .cmsms-form-builder .check_parent input[type="radio"]+label {
-	color:#888888;
+	color:#b5b3b2;
 }
 
 .header_html_inner,
@@ -499,7 +499,7 @@ body.cmsms_black #bottom select:focus,
 	#page #navigation li li.current-menu-ancestor > a,
 	#page #navigation li li:hover > a:hover, 
 	#page #navigation ul li:hover > a {
-		color:#2e2e2e;
+		color:#f2f2f2;
 		font-size:14px;
 	}
 }
