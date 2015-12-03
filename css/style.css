@@ -960,7 +960,7 @@ body.cmsms_black #navigation ul > li.dropdown.current-menu-ancestor > a > span:b
 #header {
 	border-bottom:1px solid rgba(131, 128, 109, .1);
 	background:rgba(255, 255, 255, .8);
-	padding:20px 0;
+	padding: 0;
 	position:relative;
 }
 
@@ -1013,6 +1013,12 @@ body.cmsms_black #header .logo .title_text {color:#f2f2f2;}
 
 #header .logo .title, 
 #header .logo .title_text {background-color:transparent;}
+
+#header h4 {
+    position: absolute;
+    top: 35px;
+    right: 50px;
+}
 
 #header .social_icons {
 	list-style:none;
